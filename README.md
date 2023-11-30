@@ -10,9 +10,6 @@ quyền user sẽ hiển thị thông tin của user đó
 
 ![image](https://github.com/TranCongMinh172/www_lab1/assets/144517365/b4ac4211-86e9-457f-9161-18eb7727d21d)
 ![image](https://github.com/TranCongMinh172/www_lab1/assets/144517365/76ff7485-98e9-4a59-ba2d-04e5b5429e8b)
-
-
-
 ### Đăng nhập với quyền admin
 quyền admin cho phép quản lý các account khác (bao gồm các quyền thêm, xóa, sửa, cấp quyền, và xem lịch sử đăng nhập)
 
